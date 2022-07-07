@@ -10,6 +10,6 @@
 
 #in flask-server/app/__init.py on line 10 change the username and the password to how your postgres is configured
 
-# on flask server folder, run `flask db init`, `flask db migrate`, `flask db upgrade`
+#on flask server folder, run `flask db init`, `flask db migrate`, `flask db upgrade`
 
-# now that the database is set up open 2 terminals.`npm start` on client folder, `flask run` on flask server folder
+#now that the database is set up open 2 terminals.`npm start` on client folder, `flask run` on flask server folder
